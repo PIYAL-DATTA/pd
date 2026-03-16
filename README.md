@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Portfolio
-Live Link: https://piyal-datta.github.io/
-=======
 # 🌐 Piyal Datta — Personal Portfolio
 
 [![Live Site](https://img.shields.io/badge/Live%20Site-piyal--datta.github.io-blue?style=for-the-badge&logo=github)](https://piyal-datta.github.io/pd/)
